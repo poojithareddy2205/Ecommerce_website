@@ -1,0 +1,12 @@
+ var name="my class";
+ var course="bca";
+ console.log(name);
+ console.log(course);
+ let a=10;
+ console.log("the value is a:",a);
+ const pi=3.14;
+ console.log(pi);
+ let abc=null;
+ console.log(abc);
+ let student;
+ console.log(student);
